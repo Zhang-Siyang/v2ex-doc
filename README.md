@@ -13,3 +13,5 @@ This documentation is generated from `openapi.yaml`.
 
 *   **GET `/nodes/{node_name}`**: 获取指定节点
 *   **GET `/nodes/{node_name}/topics`**: 获取指定节点下的主题
+
+另有部分 API 没有编写，欢迎 PR
